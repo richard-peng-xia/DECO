@@ -4,6 +4,9 @@
 <img src=asset/framework.png width=70% />
 </div>
 
+[**MICCAI 2024**] Generalizing to Unseen Domains in Diabetic Retinopathy with Disentangled Representations [[paper]](https://arxiv.org/abs/2406.06384)
+
+
 ## Schedule
 
 + [ ] Release the training code.
@@ -14,8 +17,8 @@
 ```python
 @article{xia2024generalizing,
   title={Generalizing to Unseen Domains in Diabetic Retinopathy with Disentangled Representations},
-  author={Peng Xia and Ming Hu and Feilong Tang and Wenxue Li and Wenhao Zheng and Lie Ju and Peibo Duan and Huaxiu Yao and Zongyuan Ge},
+  author={Xia, Peng and Hu, Ming and Tang, Feilong and Li, Wenxue and Zheng, Wenhao and Ju, Lie and Duan, Peibo and Yao, Huaxiu and Ge, Zongyuan},
   journal={arXiv preprint arXiv:2406.06384},
-  year={2024},
+  year={2024}
 }
 ```
